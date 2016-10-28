@@ -2,6 +2,7 @@
     "productId":"",
     "dsn":"",
     "provisioningMethod":"",
+    "wakeWordAgentEnabled":false,
     "companionApp":{
         "localPort":8443,
         "sslKeyStore":"",
